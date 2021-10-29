@@ -2,7 +2,7 @@
 """
 Created on Mon Apr  3 15:51:44 2017
 
-@author: puluguvx
+@author: vish
 """
 from table import Table
 
